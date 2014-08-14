@@ -1,20 +1,10 @@
-<div class="lead">
-	
-    <h1>Digital Research Project Management</h1>
-
-    <p>
-        With an emphasis on the digital (as opposed to the "research") side.
-    </p>
-</div>
-
-<hr/>
 
 <p>
     The purpose of this guide is to give an overview of the process involved in creating a digital project.  The primary target audience are researchers from the Humanities and Social Sciences at <a href="http://nuigalway.ie">NUI Galway</a>.
 </p>
 
 <p>
-    There is a definite slant towards web-based projects, but much of it is relevant to other types of software projects. 
+    There is an emphasis on the digital, as opposed to the research, side of the project. There is also a definite slant towards web-based projects, but much of it is relevant to other types of software projects. 
 </p>
 
 
@@ -36,7 +26,7 @@ The guide is written using the [Markdown format](http://daringfireball.net/proje
 
 <h4>Contributors</h4>
 <ul>
-    <li>David Kelly - <a href="http://twitter.com/davkell">@davkell</a></li>
+    <li>David Kelly - david.d.kelly@nuigalway.ie | <a href="http://twitter.com/davkell">@davkell</a></li>
 </ul>
 <br/>
 

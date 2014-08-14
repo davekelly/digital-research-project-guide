@@ -1,13 +1,13 @@
 The purpose of this guide is to give an overview of the process involved in creating a digital project.  It is broken up into a number of sections
 
 ** Project Stages **
-- [Planning (and pre-planning)](Project_Stages/Planning)
-- [Design & Content](Project_Stages/Design_&_Content)
-- [Development](Project_Stages/Development)
-- [Testing](Project_Stages/Testing) 
-- [Deployment & Hosting](Project_Stages/Deployment_&_Hosting)
-- [Dissemination & Impact](Project_Stages/Dissemination_&_Impact)
-- [Challenges](Project_Stages/Challenges)
+- Planning (and pre-planning)
+- Design & Content
+- Development
+- Testing
+- Deployment & Hosting
+- Dissemination & Impact
+- Challenges
 
 ** Useful Tools **
 

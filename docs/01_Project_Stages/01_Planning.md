@@ -1,9 +1,7 @@
-
-##Areas to consider:
   
 ### Users & Usage
 
-Some of the most important questions to answer are related to the audience for the project. These should guide much of the project's development. 
+When initially planning the project, some of the most important questions to answer are related to its audience. These should guide much of the project's development. 
 
 - Why will the application be used?
 - How it will be used?
