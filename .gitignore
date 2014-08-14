@@ -1,3 +1,5 @@
-*
-!/.gitignore
-!/docs
+/*
+!.gitignore
+!docs/
+ 
+docs/config.json
