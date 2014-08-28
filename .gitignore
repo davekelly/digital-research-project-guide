@@ -2,5 +2,6 @@
 !.gitignore
 !docs/
 !README.md
+!LICENSE.md
  
 docs/config.json
