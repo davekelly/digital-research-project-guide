@@ -7,7 +7,11 @@
     There is an emphasis on the digital, as opposed to the research, side of the project. There is also a definite slant towards web-based projects, but much of it is relevant to other types of software projects. 
 </p>
 
+<h2>Get Started</h2>
 
+<p>
+Start with the [Overview Section](00_Overview.md)
+</p>
 
 <div class="clear"></div>
 <hr/>
